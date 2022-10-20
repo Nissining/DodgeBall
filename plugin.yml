@@ -1,0 +1,12 @@
+name: DodgeBall
+main:
+  nissining.dodgeBall.DodgeBall
+author:
+  Nissining
+version: "1"
+api: 1.0.0
+commands:
+  db:
+    description: DodgeBall Minigames By Nissining
+  hub:
+    description: Return to lobby
